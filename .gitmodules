@@ -1,0 +1,3 @@
+[submodule "build/koalakit"]
+	path = build/koalakit
+	url = https://github.com/KoalityGroup/react-koalakit.git
